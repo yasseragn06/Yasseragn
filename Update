@@ -1,7 +1,7 @@
 {
-  "showDialog": true,
+  "showDialog": false,
   "appVersionCode": 2,
-  "messageText": "يجب التحديث ، تم اضافة نسخة جديدة من التطبيق ",
+  "messageText": "تحديث جديد",
   "updateButtonText": "تحديث",
   "updateButtonLink": "https://www.yasseragn.com/",
   "updateButtonGradientStartColor": "#1E88E5",
