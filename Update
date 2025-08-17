@@ -1,6 +1,6 @@
 {
   "showDialog": true,
-  "appVersionCode": 4,
+  "appVersionCode": 6,
   "messageText": "يجب التحديث ، تم اضافة نسخة جديدة من التطبيق ",
   "updateButtonText": "تحديث",
   "updateButtonLink": "https://www.yasseragn.com/",
