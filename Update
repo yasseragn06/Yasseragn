@@ -1,6 +1,6 @@
 {
   "showDialog": true,
-  "appVersionCode": 1.5,
+  "appVersionCode": 5,
   "messageText": "YasserAgn Oops! ⏰ This app has expired. Please update to the latest version.",
   "updateButtonText": "Update",
   "updateButtonLink": "https://www.yasseragn.com/",
