@@ -1,6 +1,6 @@
 {
-  "showDialog": false,
-  "appVersionCode": 6,
+  "showDialog": true,
+  "appVersionCode": 7,
   "messageText": "تحديث جديد",
   "updateButtonText": "تحديث",
   "updateButtonLink": "https://www.yasseragn.com/",
